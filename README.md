@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 <a href="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@gpfl5202/series)" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejuu321ID&show_icons=true&theme=radical)
+
+
