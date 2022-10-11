@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://velog.io/@gpfl5202/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejuu321&show_icons=true&theme=gotham)
 </div>
