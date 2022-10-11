@@ -1,3 +1,5 @@
+
+<div align=center>
 ### Hi there 👋
 
 <!--
@@ -15,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
 <a href="https://velog.io/@gpfl5202/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=FFFFFF"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejuu321&show_icons=true&theme=gotham)
 </div>
