@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@gpfl5202/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=FFFFFF"/>
