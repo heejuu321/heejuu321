@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejuu321&show_icons=true&theme=gotham)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejuu321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gpfl5202)]((https://velog.io/@gpfl5202))
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 </div>
 
