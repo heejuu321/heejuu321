@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square6&logo=Spring&color=6DB33F"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square6&logo=Oracle&color=F80000"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square6&logo=Eclipse IDE&color=2C2255"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square6&logo=Git&color=F05032"/><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square6&logo=GitHub&color=181717"/><br>
 📌 Velog<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gpfl5202)]((https://velog.io/@gpfl5202)) 
 
