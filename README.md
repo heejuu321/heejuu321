@@ -1,6 +1,7 @@
 김희주 Kim, Hee Juu <br>
 💻 BE Enginner<br>
 📚 kh정보교육원 (2022.05.27~2022.12.23) <br>
+🏛 Dongguk Univ.  Department of Sociology <br>
 📌 skills<br>
 <img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
 <img src="https://img.shields.io/badge/JavaScript-6DB33F?style=flat-square6&logo=JavaScript&color=F7DF1E"/>
