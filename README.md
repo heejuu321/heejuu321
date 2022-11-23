@@ -1,5 +1,5 @@
 김희주 Kim, Hee Juu <br>
-💻 BE Enginer<br>
+💻 BE Engineer<br>
 📚 kh정보교육원 (2022.05.27~2022.12.23) <br>
 🏛 Dongguk Univ.  Department of Sociology <br>
 📌 skills<br>
