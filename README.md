@@ -2,6 +2,7 @@
 💻 BE Engineer<br>
 📚 kh정보교육원 (2022.05.27~2022.12.22) <br>
 🏛 Dongguk Univ.  Department of Sociology <br>
+💼 동국시스템즈 Dongkuk Systems (2022.01.01 ~)<br>
 📌 skills<br>
 <img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
 <img src="https://img.shields.io/badge/JavaScript-20C997?style=flat-square6&logo=JavaScript&color=E34F26"/>
