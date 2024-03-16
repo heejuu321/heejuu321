@@ -1,7 +1,7 @@
 김희주 Kim, Hee Juu <br>
 💻 BE Engineer<br>
-📚 kh정보교육원 (2022.05.27~2022.12.22) <br>
-🏛 동국대학교 사회학 & 광고홍보학 (2013.03~2018.02) <br>
+📚 kh정보교육원 (2022.05.27 ~ 2022.12.22) <br>
+🏛 동국대학교 사회학 & 광고홍보학 (2013.03 ~ 2018.02) <br>
 💼 동국시스템즈 Dongkuk Systems (2023.01.01 ~)<br>
 📌 skills<br>
 <img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
